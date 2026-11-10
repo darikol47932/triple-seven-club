@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triple Seven Club</string>
+    <string name="app_title">TRIPLE SEVEN CLUB</string>
+    <string name="splash_subtitle">MEMBERS ONLY · SOCIAL CLUB</string>
+    <string name="loading">LOADING</string>
+    <string name="disclaimer_short">18+ · VIRTUAL CHIPS ONLY · NO REAL MONEY</string>
+    <string name="cd_club_emblem">Club emblem</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="enter">ENTER</string>
+    <string name="spin">SPIN</string>
+    <string name="turbo">TURBO</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="resume">RESUME</string>
+    <string name="restart_room">RESTART ROOM</string>
+    <string name="end_level">END LEVEL</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="level_select">LEVEL SELECT</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+
+    <string name="club_balance">CLUB BALANCE</string>
+    <string name="chips_label">CHIPS</string>
+    <string name="club_rank_value">CLUB RANK · %1$s</string>
+    <string name="stars_of">%1$d / %2$d</string>
+    <string name="menu_next_room">NEXT ROOM</string>
+    <string name="menu_room_goal">GOAL %1$d POINTS · %2$d SPINS</string>
+    <string name="menu_rooms_subline">%1$d ROOMS · %2$d UNLOCKED</string>
+    <string name="menu_collection_subline">%1$d / %2$d SYMBOLS</string>
+    <string name="menu_progress_subline">%1$d STARS</string>
+    <string name="menu_settings_subline">REEL SPEED · MOTION</string>
+    <string name="menu_record_hint">WIN A ROOM TO FILL YOUR CLUB RECORD</string>
+    <string name="disclaimer_menu">18+ · VIRTUAL CHIPS ONLY · NO DEPOSITS, NO CASH PRIZES</string>
+
+    <string name="club_rooms">CLUB ROOMS</string>
+    <string name="room_index">ROOM %1$02d</string>
+    <string name="room_goal_short">GOAL %1$d PTS · %2$d SPINS</string>
+    <string name="room_requirement">CLEAR ROOM %1$02d</string>
+    <string name="locked">Locked</string>
+
+    <string name="room_velvet_lounge">VELVET LOUNGE</string>
+    <string name="room_brass_parlour">BRASS PARLOUR</string>
+    <string name="room_neon_atrium">NEON ATRIUM</string>
+    <string name="room_gilded_hall">GILDED HALL</string>
+    <string name="room_midnight_salon">MIDNIGHT SALON</string>
+    <string name="room_chrome_terrace">CHROME TERRACE</string>
+    <string name="room_royal_vault">ROYAL VAULT</string>
+    <string name="room_triple_seven_club">TRIPLE SEVEN CLUB</string>
+
+    <string name="symbol_cherry">CLUB CHERRY</string>
+    <string name="symbol_bar">LUCKY BAR</string>
+    <string name="symbol_bell">CLUB BELL</string>
+    <string name="symbol_diamond">VELVET DIAMOND</string>
+    <string name="symbol_seven">TRIPLE SEVEN</string>
+    <string name="symbol_wild">CLUB WILD</string>
+
+    <string name="rank_guest">GUEST</string>
+    <string name="rank_member">MEMBER</string>
+    <string name="rank_regular">REGULAR</string>
+    <string name="rank_patron">PATRON</string>
+    <string name="rank_founder">FOUNDER</string>
+    <string name="perk_guest">PERK · CLUB ENTRY GRANTED</string>
+    <string name="perk_member">PERK · ONE EXTRA SPIN PER ROOM</string>
+    <string name="perk_regular">PERK · EXTRA SHARD CHANCE</string>
+    <string name="perk_patron">PERK · CLUB CHARGE FILLS FASTER</string>
+    <string name="perk_founder">PERK · TWO EXTRA SPINS AND A HIGHER STREAK CAP</string>
+
+    <string name="spins_left">SPINS LEFT %1$d</string>
+    <string name="featured_symbol">FEATURED · %1$s</string>
+    <string name="game_hint">TAP SPIN TO ROLL THE REELS</string>
+    <string name="combo_chip">STREAK %1$s</string>
+    <string name="club_charge_label">CLUB CHARGE %1$d / %2$d</string>
+    <string name="cd_club_charge">Club charge %1$d of %2$d</string>
+    <string name="cd_pause">Pause</string>
+    <string name="state_spinning">Spinning</string>
+    <string name="state_out_of_chips">Out of chips</string>
+    <string name="state_ready">Ready</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+    <string name="state_locked">Locked</string>
+    <string name="state_unlocked">Unlocked</string>
+    <string name="state_collected">COLLECTED</string>
+
+    <string name="pause_title">CLUB PAUSED</string>
+    <string name="vault_title">GOLDEN VAULT BONUS</string>
+    <string name="picks_left">PICKS LEFT %1$d</string>
+    <string name="vault_door">DOOR %1$d</string>
+    <string name="vault_hint">THE CLUB OPENS A DOOR IF YOU WAIT</string>
+
+    <string name="room_cleared">ROOM CLEARED</string>
+    <string name="room_not_cleared">ROOM NOT CLEARED</string>
+    <string name="out_of_chips">OUT OF CHIPS</string>
+    <string name="result_won">YOU WON %1$s CHIPS</string>
+    <string name="result_no_luck">NO LUCK THIS ROUND</string>
+    <string name="best_streak">BEST STREAK %1$s</string>
+    <string name="unlocked_decoration">UNLOCKED · %1$s</string>
+    <string name="disclaimer_result">VIRTUAL CHIPS ONLY · NOT REDEEMABLE</string>
+
+    <string name="symbol_collection">SYMBOL COLLECTION</string>
+    <string name="collection_empty_hint">WIN A LINE TO DROP YOUR FIRST SHARD</string>
+    <string name="pays_multiplier">PAYS x%1$d</string>
+    <string name="shards_of">%1$d / %2$d SHARDS</string>
+    <string name="unlocks_decoration">UNLOCKS · %1$s</string>
+
+    <string name="decor_chrome_marquee">CHROME MARQUEE</string>
+    <string name="decor_velvet_rope">VELVET ROPE</string>
+    <string name="decor_crystal_chandelier">CRYSTAL CHANDELIER</string>
+    <string name="decor_brass_fountain">BRASS FOUNTAIN</string>
+    <string name="decor_seven_arch">SEVEN ARCH</string>
+    <string name="decor_founders_plaque">FOUNDERS PLAQUE</string>
+    <string name="decor_req_cherry">COLLECT ALL CHERRIES</string>
+    <string name="decor_req_bar">COLLECT ALL BARS</string>
+    <string name="decor_req_bell">COLLECT ALL BELLS</string>
+    <string name="decor_req_diamond">COLLECT ALL DIAMONDS</string>
+    <string name="decor_req_seven">COLLECT ALL SEVENS</string>
+    <string name="decor_req_founder">REACH FOUNDER RANK</string>
+
+    <string name="club_progress">CLUB PROGRESS</string>
+    <string name="rank_track">RANK TRACK</string>
+    <string name="club_shelf">CLUB SHELF</string>
+    <string name="room_history">ROOM HISTORY</string>
+    <string name="not_played_yet">NOT PLAYED YET</string>
+
+    <string name="club_settings">CLUB SETTINGS</string>
+    <string name="setting_reel_speed">REEL SPEED</string>
+    <string name="setting_reel_speed_hint">HOW LONG THE REELS TAKE TO BRAKE</string>
+    <string name="speed_relaxed">RELAXED</string>
+    <string name="speed_standard">STANDARD</string>
+    <string name="speed_fast">FAST</string>
+    <string name="setting_celebration">WIN CELEBRATION</string>
+    <string name="setting_celebration_hint">HOW LONG A BIG WIN IS HELD ON SCREEN</string>
+    <string name="celebration_full">FULL</string>
+    <string name="celebration_short">SHORT</string>
+    <string name="setting_reduced_motion">REDUCED MOTION</string>
+    <string name="setting_reduced_motion_hint">TURNS OFF THE LOOPING DECORATION</string>
+    <string name="setting_pay_lines">PAY LINE HINTS</string>
+    <string name="setting_pay_lines_hint">SHOWS THE THREE LINES ON THE REEL FRAME</string>
+    <string name="reset_progress">RESET CLUB PROGRESS</string>
+    <string name="reset_title">RESET CLUB PROGRESS</string>
+    <string name="reset_message">This clears every room, star, shard and chip, and restores the starting club balance.</string>
+    <string name="responsible_title">18+ · SOCIAL CASINO ENTERTAINMENT ONLY</string>
+    <string name="responsible_body">NO REAL MONEY, NO BETTING, NO DEPOSITS OR WITHDRAWALS, NO CASH PRIZES</string>
+    <string name="responsible_chips">CLUB CHIPS CANNOT BE PURCHASED OR REDEEMED</string>
+
+    <string name="stat_best_win">BEST WIN</string>
+    <string name="stat_total_spins">TOTAL SPINS</string>
+    <string name="stat_rooms_cleared">ROOMS CLEARED</string>
+    <string name="stat_bet">BET</string>
+    <string name="stat_points">POINTS</string>
+    <string name="stat_last_win">LAST WIN</string>
+    <string name="stat_club_points">CLUB POINTS</string>
+    <string name="stat_spins_used">SPINS USED</string>
+    <string name="stat_chips_won">CHIPS WON</string>
+    <string name="stat_shards">SHARDS</string>
+    <string name="stat_stars">STARS</string>
+    <string name="stat_best_room">BEST ROOM</string>
+</resources>
